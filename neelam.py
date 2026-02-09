@@ -52,7 +52,7 @@ class faculty:
         print("name=",self.name)
         print("Salary of the faculty",self.salary)
         print("years of teaching=",self.years)
-        print("post of the faculty=",post)
+        print("post of the faculty=",self.post)
 #objects
 s1=employee("neelam",25000,5,"junior professor")
 s1.display()
